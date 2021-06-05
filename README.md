@@ -14,3 +14,5 @@ Evaluation Metric used here is R-Squared
 
 `from sklearn.metrics import r2_score`<br>
 `r2_score(y_test, y_pred)`
+
+**If the jupyter notebook is not rendering, please use [nbviewer](https://nbviewer.jupyter.org/) and paste the jupyter notebook link**
