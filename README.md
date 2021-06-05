@@ -1,4 +1,4 @@
-# Geely-Auto-Regression
+# Geely-Auto Regression Problem
 Automobile Case Study using Linear Regression in Python
 
 ### Problem Statement
